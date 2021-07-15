@@ -1,0 +1,13 @@
+D:\Vb.net\Traffic_light\Traffic_light\bin\Debug\Traffic_light.exe.config
+D:\Vb.net\Traffic_light\Traffic_light\bin\Debug\Traffic_light.exe
+D:\Vb.net\Traffic_light\Traffic_light\bin\Debug\Traffic_light.pdb
+D:\Vb.net\Traffic_light\Traffic_light\bin\Debug\Traffic_light.xml
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.vbprojAssemblyReference.cache
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.Form1.resources
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.Resources.resources
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.vbproj.GenerateResource.cache
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.vbproj.CoreCompileInputs.cache
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.exe
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.xml
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.pdb
+D:\Vb.net\Traffic_light\Traffic_light\obj\Debug\Traffic_light.Form2.resources
